@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# C build files
+*.o
+*.out
+*.elf
+*.bin
+build/
+
+# OS
+.DS_Store
