@@ -1,0 +1,16 @@
+volatile uint32_t *GPIO = (uint32_t*)0x40020000;
+
+This accesses hardware register address.
+
+6️⃣ 10 C Programs Every Embedded Engineer Should Practice
+
+1️⃣ Swap two numbers (pointer version)
+2️⃣ Reverse array using pointers
+3️⃣ Find largest number in array
+4️⃣ Bit manipulation program
+5️⃣ Toggle bit program
+6️⃣ Set / clear register bits
+7️⃣ String length without strlen()
+8️⃣ Copy string using pointers
+9️⃣ Pointer arithmetic demo
+🔟 Memory address inspector
